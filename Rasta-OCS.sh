@@ -51,7 +51,7 @@ flag=0
 	
 #iplist="ip.txt"
 
-wget --quiet -O iplist.txt https://raw.githubusercontent.com/rasta-team/SERVER_IP_REGISTER/master/ip.txt
+wget --quiet -O iplist.txt https://github.com/irwanmohi/Full-OCS/blob/master/ip.txt
 
 #if [ -f iplist ]
 #then
