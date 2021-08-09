@@ -51,7 +51,7 @@ flag=0
 	
 #iplist="ip.txt"
 
-wget --quiet -O iplist.txt https://github.com/irwanmohi/Full-OCS/blob/master/ip.txt
+wget --quiet -O iplist.txt https://raw.githubusercontent.com/irwanmohi/Full-OCS/master/ip.txt
 
 #if [ -f iplist ]
 #then
